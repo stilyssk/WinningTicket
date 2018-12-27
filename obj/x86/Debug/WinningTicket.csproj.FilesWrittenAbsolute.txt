@@ -1,0 +1,5 @@
+/home/stilyssk/CSharp/WinningTicket/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/stilyssk/CSharp/WinningTicket/bin/Debug/WinningTicket.exe.mdb
+/home/stilyssk/CSharp/WinningTicket/bin/Debug/WinningTicket.exe
+/home/stilyssk/CSharp/WinningTicket/obj/x86/Debug/WinningTicket.exe
+/home/stilyssk/CSharp/WinningTicket/obj/x86/Debug/WinningTicket.exe.mdb
